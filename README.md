@@ -1,4 +1,4 @@
-# Employment Rate in Canada
+# Tesla Stock Performance
 
 This project helps to understand what factors influences the number of employed canadians throughout the years. 
 
