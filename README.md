@@ -5,9 +5,9 @@ Founded in 2003, Tesla is an American company known for its electric vehicles. F
 The company has significant stock data from June 29, 2010, to February 12, 2025. The goal of this project is to explore key market behaviors and generate data-driven recommendations to assist financial analysts and traders in making informed investment decisions.
 
 **Insights and recommendations are provided on the following key metrics:**
-- **Closing Price Trend** : The adjusted closing price of Tesla’s stock at the end of each trading day.
-- **Trading Volume Analysis** : The total number of shares traded on a given day.
-- **Daily Return Performance** : The percentage change between the stock’s opening and closing price on the same trading day.
+- **Closing Price Trend:** The adjusted closing price of Tesla’s stock at the end of each trading day.
+- **Trading Volume Analysis:** The total number of shares traded on a given day.
+- **Daily Return Performance:** The percentage change between the stock’s opening and closing price on the same trading day.
 
 
 ## Insights Summary
@@ -17,12 +17,12 @@ Below is the Tesla stock performance dashboard. The interactive dashboard can be
 ![Image](https://github.com/user-attachments/assets/e2484c19-89e8-47c1-84b5-be26058757cd)
 
 ### Closing Price Trend
-- Tesla's average closing price has been significantly growing since 2019. 
+- Tesla's average closing price has grown significantly since 2019. 
 - With the highest stock price at $479.86 and the lowest at $1.05, the company has shown an incredible long-term growth trajectory.
 
 ### Trading Volume Analysis
 - The average number of shares traded peaked in 2020, likely due to Tesla’s inclusion in the S&P 500 and increased retail investor interest.
-- Although interest declined after its peak, the numbers indicate a sustained investor interest to an extent.  
+- Although interest declined after its peak, the numbers indicate that investor interest has remained relatively strong.
 
 ### Daily Return Performance
 - The stock exhibits daily fluctuations with the biggest single-day gain at +25.74% and the largest loss at -19.75%. 
