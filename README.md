@@ -1,19 +1,20 @@
-# Tesla Stock Performance
+# Tesla Stock Performance Overview 
 
-This project helps to understand what factors influences the number of employed canadians throughout the years. 
+Founded in 2003, Tesla is an American company known for its electric vehicules. Focusing on energy generation and storage solutions, Tesla also manufactures products such as batteries and solar pannels. 
 
-## Identify questions
-- Do the the employment rates follow the same trend across all provinces?
-- Do men still experience favoritsm over women?
-- Are there fewer full-time jobs available?
+The company has significant data regarding its stock from June 29, 2010, to February 12, 2025. The goal of this project is to explore key market behaviors and generate data-driven recommendations to assist financial analysts and traders in making informed investment decisions.
+
+**Insights and recommendations are provided on the following key metrics :**
+- **Close** : The adjusted closing price of Tesla’s stock at the end of each trading day.
+- **Volume** : The total number of shares traded on a given day.
+- **Daily return** : The percentage change between the stock’s opening and closing price on the same trading day.
 
 
-## Collect, clean and transform data
-This project consist of a dataset from Kaggle (source : Statistics Canada) regarding the employment rate in Canada from 1976 to 2019.
+## Insights Summary
 
-After analyzing the data with Excel, the data was imported in Power BI in order to clean
-
-## Analyze and vizualize data
 ![Image](https://github.com/user-attachments/assets/e2484c19-89e8-47c1-84b5-be26058757cd)
+
+
+## Recommendations
 
 ![Image](https://github.com/user-attachments/assets/86b0d886-b053-407a-abe0-6487cbf6831a)
