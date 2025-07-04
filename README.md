@@ -16,5 +16,5 @@ After analyzing the data with Excel, the data was imported in Power BI in order 
 ## Analyze and vizualize data
 ![Image](https://github.com/user-attachments/assets/12f9ba56-8f7c-4a44-a054-7517e74ca286)
 
-![Image](https://github.com/user-attachments/assets/65e434f0-4d69-4c0a-bbd8-1c1e52f172f9)
+![Image](https://github.com/user-attachments/assets/83eb2021-ed49-48cf-809c-3bcbecc06b69)
 
