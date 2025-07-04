@@ -14,6 +14,6 @@ This project consist of a dataset from Kaggle (source : Statistics Canada) regar
 After analyzing the data with Excel, the data was imported in Power BI in order to clean
 
 ## Analyze and vizualize data
-![Image](https://github.com/user-attachments/assets/12f9ba56-8f7c-4a44-a054-7517e74ca286)
+![Image](https://github.com/user-attachments/assets/e2484c19-89e8-47c1-84b5-be26058757cd)
 
 ![Image](https://github.com/user-attachments/assets/86b0d886-b053-407a-abe0-6487cbf6831a)
